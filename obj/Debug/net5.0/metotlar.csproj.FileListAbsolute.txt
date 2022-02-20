@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/metotlar.deps.json
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/metotlar.dll
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/ref/metotlar.dll
+/Users/ecekokyar/Desktop/Pratikler/metotlar/bin/Debug/net5.0/metotlar.pdb
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.dll
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/ref/metotlar.dll
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.pdb
+/Users/ecekokyar/Desktop/Pratikler/metotlar/obj/Debug/net5.0/metotlar.genruntimeconfig.cache
